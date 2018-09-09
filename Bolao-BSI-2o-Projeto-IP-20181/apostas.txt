@@ -1,0 +1,15 @@
+Leonardo
+Brasil 4 0 Escócia
+Noruega 1 3 Marrocos
+Escócia 2 3 Noruega
+Brasil 2 1 Marrocos
+Marrocos 2 2 Escócia
+Brasil 1 3 Noruega
+--
+Pedro
+Brasil 2 1 Escócia
+Noruega 2 3 Marrocos
+Escócia 3 3 Noruega
+Brasil 3 0 Marrocos
+Marrocos 4 2 Escócia
+Brasil 3 3 Noruega
