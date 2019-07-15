@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dee8e51-6060-4506-9968-c3d201282aea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/IMPAR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/BAFO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/FATORIA2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/IMPAR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/JPNEU.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PAR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PRIMO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/QUADRAD2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/SOMA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1080.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,20 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Roteiro UFMG/IMPAR.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="32" selection-start-line="32" selection-end-line="36" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Contest #2 UFRPE/Adding-Reversed-Numbers-Contest-UFRPE.py">
+        <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1080.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="135">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -56,6 +55,14 @@
         <option value="$PROJECT_DIR$/Contest #2 UFRPE/Adding-Reversed-Numbers-Contest-UFRPE.py" />
         <option value="$PROJECT_DIR$/Contest #2 UFRPE/Candy-I-Contest-UFRPE.py" />
         <option value="$PROJECT_DIR$/Roteiro UFMG/IMPAR.py" />
+        <option value="$PROJECT_DIR$/Roteiro UFMG/QUADRAD2.py" />
+        <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/SOMA.py" />
+        <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/FATORIA2.py" />
+        <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/BAFO.py" />
+        <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PAR.py" />
+        <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PRIMO.py" />
+        <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/JPNEU.py" />
+        <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1080.py" />
       </list>
     </option>
   </component>
@@ -71,7 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,16 +90,28 @@
               <item name="Contests" type="462c0819:PsiDirectoryNode" />
               <item name="Roteiro UFMG" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Contests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Contests" type="462c0819:PsiDirectoryNode" />
+              <item name="Roteiro UFMG" type="462c0819:PsiDirectoryNode" />
+              <item name="Roteiro 0" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roteiro UFMG/IMPAR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/IMPAR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +234,7 @@
     <frame x="57" y="31" width="1309" height="737" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24650078" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24610592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -250,17 +268,73 @@
     <entry file="file://$PROJECT_DIR$/Contest #2 UFRPE/Candy-I-Contest-UFRPE.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/IMPAR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="32" selection-start-line="32" selection-end-line="36" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Contest #2 UFRPE/Adding-Reversed-Numbers-Contest-UFRPE.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/IMPAR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/QUADRAD2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/SOMA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/FATORIA2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/BAFO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PAR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PRIMO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/JPNEU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1080.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
